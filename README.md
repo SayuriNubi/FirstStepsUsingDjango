@@ -1,1 +1,1 @@
-# MyFirstStepsUsingDjango
+# FirstStepsUsingDjango
